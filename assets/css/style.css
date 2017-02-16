@@ -1,0 +1,60 @@
+#name {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+}
+
+#Major {
+    font-style: italic;
+}
+
+#Email {
+    font-style: italic;
+}
+
+#Bio1 {
+    margin: 1em 0px;
+}
+
+#Bio2 {
+    margin: 1em 0px;
+}
+
+#Bio3 {
+    margin: 1em 0px;
+}
+
+#blog {
+    margin: 1em 0px;
+}
+
+#awaybackintolove {
+    font-style: italic;
+}
+
+#gumcommercial {
+    font-style: italic;
+}
+
+#songs {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#contactme {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+}
+
+#contactmename {
+    margin: 1em 0px;
+}
+
+#contactmeemail {
+    margin: 1em 0px;
+}
+
+#contactmetextarea {
+	margin: 1em 0px;	
+}
