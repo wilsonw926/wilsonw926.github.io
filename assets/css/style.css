@@ -1,14 +1,18 @@
 #name {
     font-size: 2em;
     font-weight: bold;
+    text-align: center;
 }
 
 #Major {
     font-style: italic;
+    text-align: center;
+    margin-bottom: 1em;
 }
 
 #Email {
     font-style: italic;
+    text-align: center;
 }
 
 #Bio1 {
