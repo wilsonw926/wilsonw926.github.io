@@ -48,16 +48,24 @@
     font-size: 2em;
     font-weight: bold;
     margin-bottom: 0.67em;
+    text-align: center;
 }
 
 #contactmename {
     margin: 1em 0px;
+    text-align: center;
 }
 
 #contactmeemail {
     margin: 1em 0px;
+    text-align: center;
 }
 
 #contactmetextarea {
-	margin: 1em 0px;	
+	margin: 1em 0px;
+    text-align: center;	
+}
+
+#contactmesubmit {
+    text-align: center; 
 }
