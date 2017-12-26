@@ -467,7 +467,7 @@ ul {
 }
 
 .projects-content .heading {
-  padding-top: 25%;
+  padding-top: 20%;
 }
 
 .project-item {
@@ -488,7 +488,7 @@ ul {
   margin-right: 15px;
   background-color: #fff;
   padding: 25px 30px;
-  margin-top: -45px;
+  margin-top: -25px;
   position: relative;
   z-index: 2;
 }
