@@ -360,11 +360,6 @@ ul {
 	float: right;
 }
 
-.home-content .right-image :hover{
-  background: url("img/Broadsword.jpg") no-repeat;
-}
-
-
 /*
 ========================
 ------ ABOUT STYLE -----
@@ -478,7 +473,8 @@ ul {
 }
 
 .project-item img {
-  width: 100%;
+  height: 190px;
+  width: 100px;
 }
 
 .projects-content .owl-carousel {
