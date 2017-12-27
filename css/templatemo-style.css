@@ -638,12 +638,16 @@ ul {
 }
 
 .contact-content .more-info {
-  background-color: #fff;
-  padding: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1px;
+  font-weight: 500;
+  background-color: #9fbfdf;
+  padding: 20px;
   margin-top: 50px;
   position: absolute;
   margin-left: -30px;
-  margin-right: -100px;
+  margin-right: -20px;
 }
 
 .footer {
