@@ -51,6 +51,28 @@ ul {
   -webkit-transition: all 0.2s linear;
 }
 
+.resume-button a {
+  margin-left: 475px;
+  display: inline-block;
+  background-color: #fa5252;
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 11px;
+  padding: 12px 18px;
+  font-weight: 300;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+}
+
+.resume-button a:hover {
+  background-color: transparent;
+  border: 1px solid #fff;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+}
+
 .heading h4 {
   margin-bottom: 60px;
   margin-top: 0px;
@@ -360,6 +382,10 @@ ul {
 	float: right;
 }
 
+.home-content .resume-button {
+  margin-top: -40px;
+}
+
 /*
 ========================
 ------ ABOUT STYLE -----
@@ -447,8 +473,6 @@ ul {
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
 }
-
-
 
 /*
 ========================
