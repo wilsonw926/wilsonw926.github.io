@@ -369,6 +369,7 @@ ul {
 .home-content .left-text h4 em {
 	color: #fa5252;
 	font-style: normal;
+  margin-left: 5px;
 }
 
 .home-content .left-text p {
@@ -458,6 +459,7 @@ ul {
 .about-content .about-box-text h4 em {
   color: #fa5252;
   font-style: normal;
+  margin-left: 5px;
 }
 
 .about-content .about-box-text p {
@@ -504,6 +506,11 @@ ul {
 .projects-content .owl-carousel {
   margin: 0 -30%;
   width: 160%;
+}
+
+.projects-content .arrow {
+  height: 190px;
+  width: 100px;
 }
 
 .projects-content .text-content {
