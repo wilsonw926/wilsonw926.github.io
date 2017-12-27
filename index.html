@@ -264,7 +264,7 @@
                       <div class="row">
                         <div class="col-md-8">
                           <div class="contat-form">
-                            <form id="contact" action="send.php" method="POST">
+                            <form id="contact" action="" method="post">
                               <fieldset>
                                 <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required="">
                               </fieldset>
@@ -272,10 +272,10 @@
                                 <input name="email" type="email" class="form-control" id="email" placeholder="Email" required="">
                               </fieldset>
                               <fieldset>
-                                <textarea name="message" rows="6" class="form-control" id="message" placeholder="Message" required=""></textarea>
+                                <textarea name="message" rows="6" class="form-control" id="message" placeholder="Contact form is currently inactive. Please click Send Message button to send an email to me." required=""></textarea>
                               </fieldset>
                               <fieldset>
-                                <button type="submit" id="form-submit" class="btn">Send Message</button>
+                                <button class="btn" onclick="location.href='mailto:wilsonw926@berkeley.edu';">Send Message</button>
                               </fieldset>
                             </form>
                           </div>
